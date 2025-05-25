@@ -315,6 +315,17 @@ h3{
         grid-template-columns: repeat(2, 1fr);
         column-gap: 20px;
     }
+
+    .project-item{
+
+      padding-top: 30px;
+    }
+
+    .project-item h3{
+
+      padding-top: 10px;
+    }
+
     .project-item img {
         width: 100%;
     }
