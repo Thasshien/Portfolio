@@ -128,9 +128,13 @@ h3{
 
 @media (max-width: 500px) {
   .home {
-    min-height: 100vh;
-    min-width:auto;
-    background-position: center center;
+    background: url(../images/bg-home-office-bookshelf.jpg) no-repeat;
+    background-size: cover;
+    min-height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 }
 
