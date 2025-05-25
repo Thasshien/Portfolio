@@ -224,6 +224,7 @@ h3{
   animation: fadeSlideIn 2.5s ease-in;
   font-size: 1.2em;
   text-align: justify;
+  padding-top: 20px;
 }
 
 .content-wrapper{
@@ -272,13 +273,12 @@ h3{
 .resume-section .p{
 
   animation: fadeSlideIn 3.5s ease-in;
-  padding: 30px 0 0 0;
+  padding: 45px 0 0 0;
 }
 
 .project-items{
 
-  margin-block: 30px;
-  padding-top: 5px;
+  padding-top: 20px;
   padding-bottom: 20px;
   text-align: justify;
 }
@@ -304,7 +304,7 @@ h3{
   }
 
   .project-items .A,.project-items .B,.project-items .C,.project-items .D{
-      padding-top:10px ;
+      padding-bottom:20px ;
       animation: ltor 4.1s ease-out;
   }
 }
@@ -363,6 +363,7 @@ h3{
 
 .ed{
 
+  padding-top: 40px;
   animation: fadeSlideIn 6.5s ease-in;
 }
 
@@ -374,14 +375,14 @@ h3{
 /* achievments */
 
 .ach{
-
+  padding-top: 40px;
   animation: fadeSlideIn 8.2s ease-in;
 }
 
 .achivements p{
 
-  padding: 5px 0;
-  margin: 5px 0;
+  padding-top: 5px 0;
+  margin-top: 5px 0;
   font-size: 1.1em;
 }
 
